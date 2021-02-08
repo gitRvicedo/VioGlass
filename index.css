@@ -41,7 +41,7 @@ body{
     width: 100%;
    /* border: 1px solid red;*/
     margin:auto;
-    background: url(/img/back.jpg);
+    background: url(img/back.jpg);
 }
 
 .menu{
