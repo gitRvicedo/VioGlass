@@ -27,6 +27,9 @@ body{
     /*border: 1px solid red;*/
    
 }
+p{
+    font-size: 20px;
+}
 
 .imgLogo{
     padding: 10px;
