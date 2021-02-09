@@ -135,7 +135,7 @@ body{
 
     .grid-container{
         display: grid;
-        gap: 15px;
+        gap: 20px;
         grid-template-areas: 
         "nav"
         "bar"
